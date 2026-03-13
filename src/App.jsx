@@ -84,7 +84,7 @@ export default function App() {
         onClick={handleDownload}
         disabled={!data.trim()}
       >
-        Download PNG
+        Download as PNG image
       </button>
     </div>
   )
